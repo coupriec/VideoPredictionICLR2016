@@ -1,6 +1,9 @@
 July 2016
 Authors: Michael Mathieu, Camille Couprie
 
+Update: due to large files that could not be stored on github, the trained models and dataset may be found at:
+http://perso.esiee.fr/~coupriec/MathieuICLR16TestCode.zip
+
 This repository contains:
 
 - Test code for the ICLR 2016 paper:
