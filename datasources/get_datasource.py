@@ -32,5 +32,5 @@ for f in files:
         cl = cl[2:]
         os.system('mv %s/%s %s/%s'%(datafolder, f, datafolder, cl))
 
-# The following line fixes a bug in the dataset. Apparently, the dataset has been fixed since.
-#os.system('mv %s/HandStandPushups %s/HandstandPushups'%(datafolder, datafolder))
+# The following line fixes a bug in the dataset.
+os.system('mv %s/HandStandPushups %s/HandstandPushups'%(datafolder, datafolder))
