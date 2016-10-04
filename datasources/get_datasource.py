@@ -32,4 +32,4 @@ for f in files:
         cl = cl[2:]
         os.system('mv %s/%s %s/%s'%(datafolder, f, datafolder, cl))
 
-        os.system('mv %s/HandStandPushups %s/HandstandPushups'%(datafolder, datafolder))
+os.system('mv %s/HandStandPushups %s/HandstandPushups'%(datafolder, datafolder))
