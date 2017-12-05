@@ -8,7 +8,7 @@ previous ones on a subset of the UCF101 test dataset.
 require('torch')
 require('nngraph')
 require('image')
-require('fbtorch')
+--require('fbtorch')
 require('gfx.js')
 require('cunn')
 require('cudnn')
